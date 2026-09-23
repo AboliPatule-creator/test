@@ -1,3 +1,4 @@
-
 print("hello world")
-print("hello ")
+
+a=10
+print(a)
